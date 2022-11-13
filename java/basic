@@ -1,0 +1,4 @@
+1 java agent:
+    https://stackoverflow.com/questions/11898566/tutorials-about-javaagents
+        https://docs.oracle.com/javase/1.5.0/docs/api/java/lang/instrument/package-summary.html
+        https://www.javamex.com/tutorials/memory/instrumentation.shtml
